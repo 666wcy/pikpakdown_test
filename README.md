@@ -1,2 +1,1 @@
-# pikpakdown_test
- pikpakdown的测试用版本
+[使用说明](https://weinb.top/index.php/archives/168/)
